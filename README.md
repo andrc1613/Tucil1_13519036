@@ -8,7 +8,7 @@ python3 supportive Python
 
 ## Setup
 1. Clone repository ini di directory yang diinginkan
-2. ```cd src```
+2. ```cd Tucil1_13519036/src```
 3. ```python3 cryptarithm.py```
 4. Masukkan nama file uji yang terdapat di dalam folder test
 
